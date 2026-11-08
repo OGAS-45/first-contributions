@@ -1,3 +1,19 @@
+<!-- memorial-status-2026-11-08 -->
+# first-contributions · 开源入门纪念
+
+> **停止维护，留作纪念 · 2026-11-08**
+> 本仓库不再主动推送功能更新、同步上游或维护运行环境。此次提交仅补充纪念说明，原有代码、素材与历史分支保留。
+
+保留学习fork、分支、提交与Pull Request流程的阶段。本仓库来自firstcontributions/first-contributions，原作者、贡献者与许可证保持不变；教程更新请访问上游。
+
+上游项目：https://github.com/firstcontributions/first-contributions 。
+
+本声明是维护安排，不代表已在GitHub启用只读归档。旧环境与代码未在本次重新运行验证。
+
+---
+
+## 原始说明
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
